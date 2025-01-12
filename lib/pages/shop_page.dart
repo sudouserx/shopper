@@ -42,7 +42,10 @@ class _ShopPageState extends State<ShopPage> {
             ),
 
             // Divider
-            const Divider(),
+            Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 8.0),
+              child: const Divider(),
+            ),
 
 // Grid of Items
             Expanded(

@@ -71,7 +71,10 @@ class ItemPage extends StatelessWidget {
                   ),
                 ),
 
-                const Divider(height: 20, thickness: 1),
+                Padding(
+                  padding: const EdgeInsets.symmetric(horizontal: 8.0),
+                  child: const Divider(height: 20, thickness: 1),
+                ),
 
                 // Description
                 Padding(
@@ -139,7 +142,7 @@ class ItemPage extends StatelessWidget {
                           },
                         ),
                       ),
-                      const SizedBox(width: 16),
+                      // const SizedBox(width: 16),
                       StarRating(
                         rating: item.rating,
                         starCount: 5,
@@ -155,7 +158,7 @@ class ItemPage extends StatelessWidget {
                 ),
 
                 Padding(
-                  padding: const EdgeInsets.symmetric(horizontal: 25.0),
+                  padding: const EdgeInsets.all(25),
                   child: MyButton(title: 'Add to cart'),
                 )
               ],
