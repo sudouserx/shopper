@@ -17,7 +17,7 @@ class Shop extends ChangeNotifier {
         'Triple-camera system'
       ],
       discount: 10.0,
-      imageUrl: 'smartphone.jpeg',
+      imageUrl: 'assets/images/smartphone.jpeg',
       rating: 4.5,
       reviews: [
         'Great phone!',
@@ -38,7 +38,7 @@ class Shop extends ChangeNotifier {
         'Comfortable fit'
       ],
       discount: 15.0,
-      imageUrl: 'headphone.jpeg',
+      imageUrl: 'assets/images/headphone.jpeg',
       rating: 4.7,
       reviews: [
         'Crystal-clear audio!',
@@ -59,7 +59,7 @@ class Shop extends ChangeNotifier {
         'Water-resistant up to 50m'
       ],
       discount: 20.0,
-      imageUrl: 'watch.jpeg',
+      imageUrl: 'assets/images/watch.jpeg',
       rating: 4.3,
       reviews: [
         'Very useful for workouts.',
@@ -80,7 +80,7 @@ class Shop extends ChangeNotifier {
         'RTX 3070 GPU'
       ],
       discount: 5.0,
-      imageUrl: 'gaminglaptop.jpeg',
+      imageUrl: 'assets/images/gaminglaptop.jpeg',
       rating: 4.8,
       reviews: [
         'Handles any game effortlessly.',
@@ -101,7 +101,7 @@ class Shop extends ChangeNotifier {
         'Compact design'
       ],
       discount: 12.0,
-      imageUrl: 'bluetoothspeaker.jpeg',
+      imageUrl: 'assets/images/bluetoothspeaker.jpeg',
       rating: 4.6,
       reviews: [
         'Amazing sound clarity!',
@@ -122,7 +122,7 @@ class Shop extends ChangeNotifier {
         'Dolby Atmos sound'
       ],
       discount: 25.0,
-      imageUrl: 'tv.jpeg',
+      imageUrl: 'assets/images/tv.jpeg',
       rating: 4.9,
       reviews: [
         'Picture quality is incredible.',

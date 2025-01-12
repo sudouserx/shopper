@@ -21,7 +21,7 @@ class IntroPage extends StatelessWidget {
               /// Logo animation at the top of the screen.
               Padding(
                 padding: const EdgeInsets.all(25.0),
-                child: LottieBuilder.asset('introanimation.json'),
+                child: LottieBuilder.asset('/assets/introanimation.json'),
               ),
 
               const SizedBox(height: 48),
