@@ -11,7 +11,9 @@ Shopper is a beautifully designed and feature-rich Flutter e-commerce mobile app
 - **State Management**: Simple and effective use of `provider` for state management.
 
 ## Screenshots
- [Screencast from 2025-01-12 08-45-25.webm](https://github.com/user-attachments/assets/fee7ddbe-b952-40bd-ad41-125823940ca9)
+ ![App Icon](https://github.com/user-attachments/assets/247f008d-f3dd-4e0d-baf2-7fa183bd7afb)
+
+ [Screencast](https://github.com/user-attachments/assets/fee7ddbe-b952-40bd-ad41-125823940ca9)
 
 ## Installation
 
